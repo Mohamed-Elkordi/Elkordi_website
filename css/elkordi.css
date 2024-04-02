@@ -722,7 +722,6 @@ header .mega-menu .links a i {
 }
 .services .container .service:hover {
     transform: translateY(-10px);
-    box-shadow: 0 5px 5px var(--main-color);
 }
 .services .container .service i {
     color: #d5d5d5;
